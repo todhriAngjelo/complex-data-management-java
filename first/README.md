@@ -1,5 +1,5 @@
 # Complex Data Management - _Διαχείριση Σύνθετων Δεδομένων_
-## 
+
 ## First exercise - Histograms
 
 Histograms are a useful tool for visualizing the distribution of a dataset. They are a valuable tool for exploratory data analysis. In this exercise, using Java, we will practice working with real-world data to gain an understanding of how histograms function and how to use them for data analysis and visualization.
