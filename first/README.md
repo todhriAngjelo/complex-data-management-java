@@ -5,7 +5,6 @@
 Histograms are a useful tool for visualizing the distribution of a dataset. They are a valuable tool for exploratory data analysis. In this exercise, using Java, we will practice working with real-world data to gain an understanding of how histograms function and how to use them for data analysis and visualization.
 
 ![example histogram](https://chartio.com/images/tutorials/charts/histograms/histogram-example-1.png)
-Example histogram
 
 For this exercise there were developed:
 - 2 code examples
@@ -35,5 +34,4 @@ Finally, it will print the equi-width estimate, the equi-depth estimate, and the
 
 ## Credits
 
-semister page: [CS UOI semister course](https://www.cse.uoi.gr/course/complex-data-management/?lang=en)
-chatgpt
+[semister course page](https://www.cse.uoi.gr/course/complex-data-management/?lang=en) & chatGPT3
